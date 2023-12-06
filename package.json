@@ -1,0 +1,38 @@
+{
+    "name": "tenclimabot",
+    "version": "1.0.0",
+    "description": "Inline bot that search your city's weather forecast",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/leviobrabo/climatologiabot.git"
+    },
+    "keywords": [
+        "weather-forecast",
+        "weather",
+        "bot",
+        "telegram-bot",
+        "weather-forecast-bot",
+        "weather-bot-telegram"
+    ],
+    "author": "leviobrabo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/leviobrabo/climatologiabot/issues"
+    },
+    "homepage": "https://github.com/leviobrabo/climatologiabot#readme",
+    "dependencies": {
+        "axios": "^1.5.1",
+        "cron": "^3.1.1",
+        "dotenv": "^16.3.1",
+        "fs": "^0.0.1-security",
+        "i18n": "^0.15.1",
+        "mongoose": "^7.6.2",
+        "node-telegram-bot-api": "^0.63.0",
+        "path": "^0.12.7"
+    }
+}
