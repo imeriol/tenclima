@@ -1,4 +1,4 @@
-﻿# Janna
+﻿# TeN Weather
 
 [Climatologiabot](https://t.me/climatologiabot) is an inline bot that searches your city's weather forecast
 
